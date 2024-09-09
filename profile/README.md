@@ -22,12 +22,10 @@ We envision Developer’s Club as the go-to choice for IT professionals in the r
 - **Inspiration**: We are honored to inspire others and aim to push people to achieve more than they thought possible.
 - **Humility**: We acknowledge our limits, accept what we don’t know, and recognize that mistakes happen.
 
-## 🚀 Boost Your Career
-Join a team of IT experts ready to help you enhance your technical and leadership skills.
 
-### 🎟 Become a Member
+## 🎟 Become a Member
 
-Join here: https://developersclub.rs 👈
+- **Join here:**  https://developersclub.rs 👈
 
 ## 👋 Meet Our Team
 
