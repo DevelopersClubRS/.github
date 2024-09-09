@@ -29,12 +29,12 @@ Join a team of IT experts ready to help you enhance your technical and leadershi
 
 ## 👋 Meet Our Team
 
-- **Aleksandar Sabo** - UO [LinkedIn 🔗]
-- **Sebastian Novak** - UO [LinkedIn 🔗]
-- **Dejan Miličić** - UO [LinkedIn 🔗]
-- **Silvija Baro Čalija** - UO [LinkedIn 🔗]
-- **Ognjen Stanić** - UO [LinkedIn 🔗]
-- **Nikola Knežević** - UO [LinkedIn 🔗]
+- **Aleksandar Sabo** - UO [[LinkedIn 🔗](https://www.linkedin.com/in/alxsabo/)]
+- **Sebastian Novak** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/1337429001/)
+- **Dejan Miličić** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/dejanmilicic/)
+- **Silvija Baro Čalija** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/sbaro/)
+- **Ognjen Stanić** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/ognjen-stanic/)
+- **Nikola Knežević** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/knezevicdev/)
 
 ## 🤝 Our Friends
 Organizations and companies that support Developer’s Club’s work.
