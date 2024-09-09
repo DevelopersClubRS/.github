@@ -27,6 +27,8 @@ Join a team of IT experts ready to help you enhance your technical and leadershi
 
 ### 🎟 Become a Member
 
+Join here: https://developersclub.rs 👈
+
 ## 👋 Meet Our Team
 
 - **Aleksandar Sabo** - UO [[LinkedIn 🔗](https://www.linkedin.com/in/alxsabo/)]
