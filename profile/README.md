@@ -1,4 +1,4 @@
-# 💻 Developer's Club - Software Engineering Hub
+# 💻 Developers Club - Software Engineering Hub
 
 ## 👥 About Us
 
@@ -9,10 +9,10 @@ We unite the IT community to exchange ideas, knowledge, and information in one p
 🚀 We educate our members to become authorities in IT knowledge and expertise.
 
 ### 🏅 Our Mission:
-Developer’s Club aims to spread knowledge that leads the world into the digital age among the IT community. We help our members improve in what they do and inspire them to become true professionals in their craft.
+Developers Club aims to spread knowledge that leads the world into the digital age among the IT community. We help our members improve in what they do and inspire them to become true professionals in their craft.
 
 ### 🎯 Our Vision:
-We envision Developer’s Club as the go-to choice for IT professionals in the region, offering networking, development opportunities, and knowledge exchange with peers.
+We envision Developers Club as the go-to choice for IT professionals in the region, offering networking, development opportunities, and knowledge exchange with peers.
 
 ## 💡 Our Values
 
@@ -37,11 +37,11 @@ We envision Developer’s Club as the go-to choice for IT professionals in the r
 - **Nikola Knežević** - UO [[LinkedIn 🔗]](https://www.linkedin.com/in/knezevicdev/)
 
 ## 🤝 Our Friends
-Organizations and companies that support Developer’s Club’s work.
+Organizations and companies that support Developers Club’s work.
 
 ---
 
-💡 **Developer’s Club** is the go-to place where IT professionals can find useful advice, resources, and inspiration to grow and advance their careers.
+💡 **Developers Club** is the go-to place where IT professionals can find useful advice, resources, and inspiration to grow and advance their careers.
 
 ## 🔗 Let’s Connect!
 Network with other developers, build your reputation, and elevate your career!
