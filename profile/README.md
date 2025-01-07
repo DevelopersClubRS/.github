@@ -44,12 +44,15 @@ Organizations and companies that support Developers Club's work.
     <a href="https://codetailor.rs" target="_blank">
         <img src="friends/codetailor.png" alt="code tailor" height="100">
     </a>
+    <img width="50">
     <a href="https://www.rajak.rs/" target="_blank">
         <img src="friends/skola-rajak.png" alt="škola rajak" height="100">
     </a>
+    <img width="50">
     <a href="https://itpodkast.com/" target="_blank">
         <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" height="100">
     </a>
+    <img width="50">
     <a href="https://culturemanagement.rs/" target="_blank">
         <img src="friends/culture-impact.png" alt="culture impact" height="100">
     </a>
