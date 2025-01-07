@@ -41,7 +41,7 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 Organizations and companies that support Developers Club's work.
 
 <div align="center">
- <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/codetailor.png" height="100" alt="code tailor"  />
+ 
   <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/skola-rajak.png" height="100" alt="škola rajak"  />
   <img width="60" />
@@ -59,7 +59,13 @@ Organizations and companies that support Developers Club's work.
 
 </div>
 
-| [![ntp ns](friends/ntp-ns.png)](https://ntpns.rs/) | [![heapspace](https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/heapspace.png)](https://heapspace.rs/) | another | 
+<div style="text-align: center;">
+    <a href="https://codetailor.rs">
+        <img src="friends/codetailor.png" alt="code tailor" width="100">
+    </a>
+</div>
+
+| [![ntp ns](friends/ntp-ns.png)](https://ntpns.rs/) | [![heapspace](friends/heapspace.png)](https://heapspace.rs/) | another | 
 |---|---|---|
 
 
