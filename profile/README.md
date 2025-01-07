@@ -41,7 +41,7 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 Organizations and companies that support Developers Club's work.
 
 <div align="center">
-    <a href="https://codetailor.rs" target="_blank">
+    <a href="https://codetailor.rs" target="_blank" style="text-decoration: none;">
         <img src="friends/codetailor.png" alt="code tailor" height="100">
     </a>
     <img width="50">
