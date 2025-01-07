@@ -42,23 +42,21 @@ Organizations and companies that support Developers Club's work.
 
 <div align="center">
  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/codetailor.png" height="100" alt="code tailor"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/skola-rajak.png" height="100" alt="škola rajak"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/podcast-it-tipa.png" height="100" alt="podcast it tipa"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/culture-impact.png" height="100" alt="culture impact"  />
-  <img width="12" />
 </div>
 <div align="center">
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/veloxdb.png" height="100" alt="veloxdb"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/positivetech.png" height="100" alt="positive tech"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/ntp-ns.png" height="100" alt="ntp ns"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/heapspace.png" height="100" alt="heapspace"  />
-  <img width="12" />
 </div>
 
 ---
