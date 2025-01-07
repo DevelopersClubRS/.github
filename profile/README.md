@@ -40,7 +40,7 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 ## 🤝 Our Friends
 Organizations and companies that support Developers Club's work.
 
-<div style="display: inline-block; text-align: center; width: 100%;">
+<p style="text-align: center;">
     <a href="https://codetailor.rs">
         <img src="friends/codetailor.png" alt="code tailor" width="100">
     </a>
@@ -53,7 +53,7 @@ Organizations and companies that support Developers Club's work.
     <a href="https://culturemanagement.rs/">
         <img src="friends/culture-impact.png" alt="culture impact" width="100">
     </a>
-</div>
+</p>
 
 <div style="display: inline-block; text-align: center; width: 100%;">
     <a href="https://www.vlxdb.com/">
