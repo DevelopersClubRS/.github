@@ -49,7 +49,6 @@ Organizations and companies that support Developers Club's work.
     <img width="50">
     <img src="friends/culture-impact.png" alt="culture impact" height="100">
 </div>
-<img height="25">
 <div align="center">
     <img src="friends/veloxdb.png" alt="veloxdb" width="100">
     <img width="50">
