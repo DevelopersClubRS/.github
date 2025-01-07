@@ -41,34 +41,34 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 Organizations and companies that support Developers Club's work.
 
 <div align="center">
-    <a href="https://codetailor.rs">
-        <img src="friends/codetailor.png" alt="code tailor" width="100" style="margin: 25px;">
+    <a href="https://codetailor.rs" target="_blank">
+        <img src="friends/codetailor.png" alt="code tailor" height="100">
     </a>
-    <a href="https://www.rajak.rs/">
-        <img src="friends/skola-rajak.png" alt="škola rajak" width="100" style="margin: 25px;">
+    <a href="https://www.rajak.rs/" target="_blank">
+        <img src="friends/skola-rajak.png" alt="škola rajak" height="100">
     </a>
-    <a href="https://itpodkast.com/">
-        <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" width="100" style="margin: 25px;">
+    <a href="https://itpodkast.com/" target="_blank">
+        <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" height="100">
     </a>
-    <a href="https://culturemanagement.rs/">
-        <img src="friends/culture-impact.png" alt="culture impact" width="100"style="margin: 25px;">
+    <a href="https://culturemanagement.rs/" target="_blank">
+        <img src="friends/culture-impact.png" alt="culture impact" height="100">
     </a>
 </div>
 
 <div align="center">
-    <a href="https://www.vlxdb.com/">
+    <a href="https://www.vlxdb.com/" target="_blank">
         <img src="friends/veloxdb.png" alt="veloxdb" width="100">
     </a>
     <img width="50">
-    <a href="https://positivetechit.com/">
+    <a href="https://positivetechit.com/" target="_blank">
         <img src="friends/positivetech.png" alt="positive tech" width="100">
     </a>
     <img width="50">
-    <a href="https://ntpns.rs/">
+    <a href="https://ntpns.rs/" target="_blank">
         <img src="friends/ntp-ns.png" alt="ntp ns" width="100">
     </a>
     <img width="50">
-    <a href="https://heapspace.rs/">
+    <a href="https://heapspace.rs/" target="_blank">
         <img src="friends/heapspace.png" alt="heapspace" width="100">
     </a>
 </div>
