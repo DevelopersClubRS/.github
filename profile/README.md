@@ -56,7 +56,9 @@ Organizations and companies that support Developers Club's work.
   <img width="60" />
   <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/ntp-ns.png" height="100" alt="ntp ns"  />
   <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/heapspace.png" height="100" alt="heapspace"  />
+    <a href="https://positivetechit.com/" target="_blank">
+        <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/heapspace.png" height="100" alt="heapspace"  />
+    </a>
 </div>
 
 ---
