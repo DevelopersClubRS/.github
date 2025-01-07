@@ -40,34 +40,35 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 ## 🤝 Our Friends
 Organizations and companies that support Developers Club's work.
 
-<div align="center">
- 
-  <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/skola-rajak.png" height="100" alt="škola rajak"  />
-  <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/podcast-it-tipa.png" height="100" alt="podcast it tipa"  />
-  <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/culture-impact.png" height="100" alt="culture impact"  />
-</div>
-<div align="center">
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/veloxdb.png" height="100" alt="veloxdb"  />
-  <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/positivetech.png" height="100" alt="positive tech"  />
-  <img width="60" />
-  <img src="https://github.com/DevelopersClubRS/.github/blob/main/profile/friends/ntp-ns.png" height="100" alt="ntp ns"  />
-  <img width="60" />
-
-</div>
-
-<div style="text-align: center;">
+<div style="display: inline-block; text-align: center; width: 100%;">
     <a href="https://codetailor.rs">
         <img src="friends/codetailor.png" alt="code tailor" width="100">
     </a>
+    <a href="https://www.rajak.rs/">
+        <img src="friends/skola-rajak.png" alt="škola rajak" width="100">
+    </a>
+    <a href="https://itpodkast.com/">
+        <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" width="100">
+    </a>
+    <a href="https://culturemanagement.rs/">
+        <img src="friends/culture-impact.png" alt="culture impact" width="100">
+    </a>
 </div>
 
-| [![ntp ns](friends/ntp-ns.png)](https://ntpns.rs/) | [![heapspace](friends/heapspace.png)](https://heapspace.rs/) | another | 
-|---|---|---|
-
+<div style="display: inline-block; text-align: center; width: 100%;">
+    <a href="https://www.vlxdb.com/">
+        <img src="friends/veloxdb.png" alt="veloxdb" width="100">
+    </a>
+    <a href="https://positivetechit.com/">
+        <img src="friends/positivetech.png" alt="positive tech" width="100">
+    </a>
+    <a href="https://ntpns.rs/">
+        <img src="friends/ntp-ns.png" alt="ntp ns" width="100">
+    </a>
+    <a href="https://heapspace.rs/">
+        <img src="friends/heapspace.png" alt="heapspace" width="100">
+    </a>
+</div>
 
 ---
 
