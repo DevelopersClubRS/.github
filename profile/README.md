@@ -40,7 +40,7 @@ We envision Developers Club as the go-to choice for IT professionals in the regi
 ## 🤝 Our Friends
 Organizations and companies that support Developers Club's work.
 
-<p style="text-align: center;">
+<div align="center">
     <a href="https://codetailor.rs">
         <img src="friends/codetailor.png" alt="code tailor" width="100">
     </a>
@@ -53,20 +53,20 @@ Organizations and companies that support Developers Club's work.
     <a href="https://culturemanagement.rs/">
         <img src="friends/culture-impact.png" alt="culture impact" width="100">
     </a>
-</p>
+</div>
 
-<div style="display: inline-block; text-align: center; width: 100%;">
+<div align="center">
     <a href="https://www.vlxdb.com/">
-        <img src="friends/veloxdb.png" alt="veloxdb" width="100">
+        <img src="friends/veloxdb.png" alt="veloxdb" width="200">
     </a>
     <a href="https://positivetechit.com/">
-        <img src="friends/positivetech.png" alt="positive tech" width="100">
+        <img src="friends/positivetech.png" alt="positive tech" width="200">
     </a>
     <a href="https://ntpns.rs/">
-        <img src="friends/ntp-ns.png" alt="ntp ns" width="100">
+        <img src="friends/ntp-ns.png" alt="ntp ns" width="200">
     </a>
     <a href="https://heapspace.rs/">
-        <img src="friends/heapspace.png" alt="heapspace" width="100">
+        <img src="friends/heapspace.png" alt="heapspace" width="200">
     </a>
 </div>
 
