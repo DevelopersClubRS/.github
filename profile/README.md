@@ -42,31 +42,34 @@ Organizations and companies that support Developers Club's work.
 
 <div align="center">
     <a href="https://codetailor.rs">
-        <img src="friends/codetailor.png" alt="code tailor" width="100">
+        <img src="friends/codetailor.png" alt="code tailor" width="100" style="margin: 25px;">
     </a>
     <a href="https://www.rajak.rs/">
-        <img src="friends/skola-rajak.png" alt="škola rajak" width="100">
+        <img src="friends/skola-rajak.png" alt="škola rajak" width="100" style="margin: 25px;">
     </a>
     <a href="https://itpodkast.com/">
-        <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" width="100">
+        <img src="friends/podcast-it-tipa.png" alt="podcast it tipa" width="100" style="margin: 25px;">
     </a>
     <a href="https://culturemanagement.rs/">
-        <img src="friends/culture-impact.png" alt="culture impact" width="100">
+        <img src="friends/culture-impact.png" alt="culture impact" width="100"style="margin: 25px;">
     </a>
 </div>
 
 <div align="center">
     <a href="https://www.vlxdb.com/">
-        <img src="friends/veloxdb.png" alt="veloxdb" width="200">
+        <img src="friends/veloxdb.png" alt="veloxdb" width="100">
     </a>
+    <img width="50">
     <a href="https://positivetechit.com/">
-        <img src="friends/positivetech.png" alt="positive tech" width="200">
+        <img src="friends/positivetech.png" alt="positive tech" width="100">
     </a>
+    <img width="50">
     <a href="https://ntpns.rs/">
-        <img src="friends/ntp-ns.png" alt="ntp ns" width="200">
+        <img src="friends/ntp-ns.png" alt="ntp ns" width="100">
     </a>
+    <img width="50">
     <a href="https://heapspace.rs/">
-        <img src="friends/heapspace.png" alt="heapspace" width="200">
+        <img src="friends/heapspace.png" alt="heapspace" width="100">
     </a>
 </div>
 
